@@ -5,4 +5,4 @@ menu: ERD
 order: 10
 ---
 
-[![ERD diagram](images/interviewQuestions.svg)](pdf/interviewQuestions.pdf)
+[![ERD diagram](images/InterviewQuestions.svg)](pdf/InterviewQuestions.pdf)
